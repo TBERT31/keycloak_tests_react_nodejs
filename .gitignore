@@ -1,0 +1,4 @@
+.git
+.vscode
+/demokeycloak-react/node_modules
+/demokeycloak-node/node_modules
